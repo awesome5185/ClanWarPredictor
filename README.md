@@ -1,7 +1,9 @@
 # ClanWarPredictor
 
 This tool allows you to input a playertag in which the model will calculate the odds of a clan war win against a specified opponent!
-It uses a 10 variable linear regression analysis to calculate these odds which means yes, sometimes it can overshoot 0% or 100%.
+It uses a 10 variable linear regression analysis to calculate these odds which means yes, sometimes it can overshoot 0% or 100%.  
+
+###### Anyways I'm going to take this oppotunity to plug my clan: Awesome Empire#9Q9CLR - Join if you have around 5k PB, we're Gold II!
 
 # Setup
 You'll need the data2.csv file in the same location as the Predictor.exe file.  
